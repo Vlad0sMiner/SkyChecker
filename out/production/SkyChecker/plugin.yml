@@ -1,0 +1,10 @@
+name: SkyChecker
+main: ru.Vlad0sMiner.classes.Main
+version: 2.0
+commands:
+  l:
+  reg:
+  sreg:
+  sunreg:
+  changepass:
+  sreload:
